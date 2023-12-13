@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/spartech.github.io/static/css/main.f3152c79.css",
+    "main.js": "/spartech.github.io/static/js/main.db703800.js",
+    "static/js/787.910f5be4.chunk.js": "/spartech.github.io/static/js/787.910f5be4.chunk.js",
+    "static/media/team_img.jpg": "/spartech.github.io/static/media/team_img.fbc762bfb08a24d2cd73.jpg",
+    "static/media/main_img.jpg": "/spartech.github.io/static/media/main_img.61738be0f2e21611e01c.jpg",
+    "static/media/hero2_img.jpg": "/spartech.github.io/static/media/hero2_img.111da9a4da9f657f477e.jpg",
+    "static/media/new_img.jpg": "/spartech.github.io/static/media/new_img.e0beea80ae54be469638.jpg",
+    "static/media/quote_img.jpg": "/spartech.github.io/static/media/quote_img.101a111ab9d2482dd0b6.jpg",
+    "static/media/img1.jpg": "/spartech.github.io/static/media/img1.9a08b723c2ef792838d7.jpg",
+    "static/media/img2.jpg": "/spartech.github.io/static/media/img2.f5091fad41afb8a18c39.jpg",
+    "static/media/spartech_logo.png": "/spartech.github.io/static/media/spartech_logo.92bd54d950736025f330.png",
+    "static/media/phone.png": "/spartech.github.io/static/media/phone.9f67e819001cd616ba13.png",
+    "static/media/people01.png": "/spartech.github.io/static/media/people01.a40f2b61208976a6d644.png",
+    "static/media/placeholder.png": "/spartech.github.io/static/media/placeholder.64cdcb0ef97818161310.png",
+    "static/media/flash.png": "/spartech.github.io/static/media/flash.ac73ceda16b45279e1cb.png",
+    "static/media/people02.png": "/spartech.github.io/static/media/people02.bba1091ac468e1439956.png",
+    "static/media/instagram.svg": "/spartech.github.io/static/media/instagram.c6b8cb38e27fa08147a5848badee6975.svg",
+    "static/media/close.svg": "/spartech.github.io/static/media/close.c77f10e4c08d40af5f1ccf25a43b2ac5.svg",
+    "static/media/menu.svg": "/spartech.github.io/static/media/menu.0b8796dcff6b9d88f160a5096039aa18.svg",
+    "static/media/twitter.svg": "/spartech.github.io/static/media/twitter.770c4fec194e1e46d63c494c3abf339c.svg",
+    "static/media/hamburger.svg": "/spartech.github.io/static/media/hamburger.4fec2e6096360402fa46386d6e4cc4cd.svg",
+    "static/media/linkedin.svg": "/spartech.github.io/static/media/linkedin.118c1b5e826b3fec5a303413266a78f8.svg",
+    "index.html": "/spartech.github.io/index.html",
+    "static/media/quotes.svg": "/spartech.github.io/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
+    "static/media/call.svg": "/spartech.github.io/static/media/call.3188e328380f83bb8294d9dd8b0c890b.svg",
+    "static/media/facebook.svg": "/spartech.github.io/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
+    "main.f3152c79.css.map": "/spartech.github.io/static/css/main.f3152c79.css.map",
+    "main.db703800.js.map": "/spartech.github.io/static/js/main.db703800.js.map",
+    "787.910f5be4.chunk.js.map": "/spartech.github.io/static/js/787.910f5be4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3152c79.css",
+    "static/js/main.db703800.js"
+  ]
+}
