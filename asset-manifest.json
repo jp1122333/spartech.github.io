@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/spartech.github.io/static/css/main.f3152c79.css",
-    "main.js": "/spartech.github.io/static/js/main.ab7e5a81.js",
+    "main.css": "/spartech.github.io/static/css/main.2017e639.css",
+    "main.js": "/spartech.github.io/static/js/main.f9797c63.js",
     "static/js/787.910f5be4.chunk.js": "/spartech.github.io/static/js/787.910f5be4.chunk.js",
+    "static/media/new_team_img.jpg": "/spartech.github.io/static/media/new_team_img.2a33d059a6235d2cab51.jpg",
     "static/media/team_img.jpg": "/spartech.github.io/static/media/team_img.fbc762bfb08a24d2cd73.jpg",
     "static/media/main_img.jpg": "/spartech.github.io/static/media/main_img.61738be0f2e21611e01c.jpg",
     "static/media/hero2_img.jpg": "/spartech.github.io/static/media/hero2_img.111da9a4da9f657f477e.jpg",
@@ -26,12 +27,12 @@
     "static/media/quotes.svg": "/spartech.github.io/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
     "static/media/call.svg": "/spartech.github.io/static/media/call.3188e328380f83bb8294d9dd8b0c890b.svg",
     "static/media/facebook.svg": "/spartech.github.io/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
-    "main.f3152c79.css.map": "/spartech.github.io/static/css/main.f3152c79.css.map",
-    "main.ab7e5a81.js.map": "/spartech.github.io/static/js/main.ab7e5a81.js.map",
+    "main.2017e639.css.map": "/spartech.github.io/static/css/main.2017e639.css.map",
+    "main.f9797c63.js.map": "/spartech.github.io/static/js/main.f9797c63.js.map",
     "787.910f5be4.chunk.js.map": "/spartech.github.io/static/js/787.910f5be4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3152c79.css",
-    "static/js/main.ab7e5a81.js"
+    "static/css/main.2017e639.css",
+    "static/js/main.f9797c63.js"
   ]
 }
