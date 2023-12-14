@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spartech.github.io/static/css/main.ca7b2ddd.css",
-    "main.js": "/spartech.github.io/static/js/main.363ac735.js",
+    "main.js": "/spartech.github.io/static/js/main.098a67d6.js",
     "static/js/787.910f5be4.chunk.js": "/spartech.github.io/static/js/787.910f5be4.chunk.js",
     "static/media/new_team_img.jpg": "/spartech.github.io/static/media/new_team_img.2a33d059a6235d2cab51.jpg",
     "static/media/team_img.jpg": "/spartech.github.io/static/media/team_img.fbc762bfb08a24d2cd73.jpg",
@@ -28,11 +28,11 @@
     "static/media/call.svg": "/spartech.github.io/static/media/call.3188e328380f83bb8294d9dd8b0c890b.svg",
     "static/media/facebook.svg": "/spartech.github.io/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
     "main.ca7b2ddd.css.map": "/spartech.github.io/static/css/main.ca7b2ddd.css.map",
-    "main.363ac735.js.map": "/spartech.github.io/static/js/main.363ac735.js.map",
+    "main.098a67d6.js.map": "/spartech.github.io/static/js/main.098a67d6.js.map",
     "787.910f5be4.chunk.js.map": "/spartech.github.io/static/js/787.910f5be4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca7b2ddd.css",
-    "static/js/main.363ac735.js"
+    "static/js/main.098a67d6.js"
   ]
 }
